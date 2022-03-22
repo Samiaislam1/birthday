@@ -1,0 +1,30 @@
+body{
+   background-color: black;
+   margin-bottom: 300; 
+   color: rgb(248, 236, 66);
+   text-align: center;
+   text-decoration: wavy red;
+}
+
+
+.end {
+   margin-top: 195px;
+   color: rgb(252, 235, 86);
+}
+
+.sty{
+  width: 600px;
+  font-size: 200%;
+  color: rgb(3, 3, 3);
+  background-color: rgb(253, 225, 63);
+  margin-top: 15px;
+  padding: 30;
+
+}
+
+ 
+ .can{
+    font-size: 800%;
+  }
+
+
